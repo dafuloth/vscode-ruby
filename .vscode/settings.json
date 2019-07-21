@@ -1,0 +1,4 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "terminal.integrated.shellArgs.windows": ["/E:ON","/K", "C:\\Ruby25-x64\\bin\\setrbvars.cmd"],
+}
